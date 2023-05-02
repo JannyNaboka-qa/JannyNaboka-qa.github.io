@@ -145,16 +145,16 @@ a:hover {
 @media screen and (min-width: 1440px) {
   body {
     padding: 3.472vw;
-    padding-bottom: 8.333vw;
+    padding-bottom: 4.333vw;
   }
 
   .name {
-    font-size: 10vw;
+    font-size: 6vw;
     margin-bottom: 1.667vw;
   }
 
   .block {
-    margin-top: 8.333vw;
+    margin-top: 3.333vw;
   }
 
   .block-title {
@@ -164,7 +164,7 @@ a:hover {
   }
 
   .entry {
-    line-height: 7.813vw;
-    font-size: 6.667vw;
+    line-height: 2.813vw;
+    font-size: 2.667vw;
   }
 }
